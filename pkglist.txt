@@ -1,0 +1,14 @@
+clipmenu
+conky
+flameshot
+i3-gaps
+kitty
+nitrogen
+picom
+polybar
+rofi
+xfce4-power-manager
+zsh
+qt5ct
+lxappearance
+papirus-icon-theme
