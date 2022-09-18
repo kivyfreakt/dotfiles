@@ -32,13 +32,13 @@ My dotfiles
 ![main](https://github.com/kivyfreakt/dotfiles/blob/main/screenshots/4.png)
 
 ### rofi
-![main](https://github.com/kivyfreakt/dotfiles/blob/main/screenshots/4.png)
+![main](https://github.com/kivyfreakt/dotfiles/blob/main/screenshots/5.png)
 
 ## Installation
 
 ### Dependencies
 ```sh
-    pacman -S - < pkglist.txt
+pacman -S - < pkglist.txt
 ```
 
 ### Using install script 
